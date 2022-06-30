@@ -1,0 +1,30 @@
+{
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Smart mixins for writing BEM in Pug",
+  "devDependencies": {
+    "mocha": "*",
+    "pug": "2.0.0-beta6",
+    "should": "2.0.x"
+  },
+  "engines": {
+    "node": "*"
+  },
+  
+  "keywords": [
+    "jade",
+    "pug",
+    "bem"
+  ],
+  "licence": "MIT",
+  "license": "MIT",
+  "main": "./lib/index.pug",
+  "name": "bemtopuginvue",
+  "scripts": {
+    "test": "mocha --require should --reporter list"
+  },
+  "version": "2.1.1",
+  "bugs": {
+    "url": "https://gitlab.com/preusx/aspectus/issues"
+  },
+}
