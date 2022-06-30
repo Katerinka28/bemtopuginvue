@@ -25,6 +25,11 @@
   },
   "version": "2.1.1",
   "bugs": {
-    "url": "https://gitlab.com/preusx/aspectus/issues"
+    "url": "https://github.com/Katerinka28/bemtopuginvue/issues"
   },
+  "author": "Kate Sychova <katuxadmitr@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:Katerinka28/bemtopuginvue.git"
+  }
 }
